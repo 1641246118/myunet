@@ -31,5 +31,6 @@
 
 
 对应的命令：python unet.py
-
-
+模型：
+链接：https://pan.baidu.com/s/1Nkkid_oaDk8Yirv-Hhqf8w 
+提取码：wtgs
